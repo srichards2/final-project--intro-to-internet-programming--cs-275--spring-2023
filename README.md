@@ -42,7 +42,7 @@ Before you begin, **update Node, NPM, ESLint, and Stylelint**
 * No variable hoisting; only `let` declarations. Should you need to defeat this rule, explain so in a comment
 * Use `window.prompt` to take input in from the user
 * Create a sentinel-based entry into this program that only allows integers greater than 1
-* Use `parseInt` and `parseFloat` to verify integer input
+* Use `parseInt` to verify integer input
 * Use `Promises` to achieve a correct ordering of the callback function sequence
 
 ### Task Running with Gulp
